@@ -12,7 +12,7 @@
 
 body {
   min-height: 100vh;
-  background: #212534;
+  background: #D8BFD8;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -23,7 +23,7 @@ body {
 
 
 .card {
-  background: #191c29;
+  background: #FA8072;
   width: var(--card-width);
   height: var(--card-height);
   padding: 3px;

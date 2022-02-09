@@ -2,6 +2,6 @@ Magic Card
 ----------
 Yet another glowing card
 
-A [Pen](https://codepen.io/gayane-gasparyan/pen/jOmaBQK) by [Gayane](https://codepen.io/gayane-gasparyan) on [CodePen](https://codepen.io).
+A [Pen](https://codepen.io/leonelvo/pen/bGYqZLd) by [LeonelVO](https://codepen.io/leonelvo) on [CodePen](https://codepen.io).
 
-[License](https://codepen.io/license/pen/jOmaBQK).
+[License](https://codepen.io/license/pen/bGYqZLd).
